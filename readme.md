@@ -114,10 +114,10 @@ npx expo start
 
 ---
 
-## Autor
+## Autores
 
-**Antonio** — Engenharia da Computação — UNIVASF  
-Orientador: *[nome do orientador]*  
+Aluno: Antonio dos Santos Filho — Engenharia da Computação — UNIVASF  
+Orientador: Prof. Dr. Rosalvo Ferreira de Oliveira Neto 
 Ano: 2025/2026
 
 ---
